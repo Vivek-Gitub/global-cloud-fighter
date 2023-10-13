@@ -1,0 +1,19 @@
+.footer {
+    padding-top: 10px;
+}
+.social-section{
+    color: white;
+    font-size: 14px;
+}
+
+.social-icon {
+    font-size: 18px;
+}
+
+.contact-section, .link-section, .product-section, .address-section{
+    font-size: 13px;
+}
+
+.contact-section i{
+    margin-right: 10px;
+}
